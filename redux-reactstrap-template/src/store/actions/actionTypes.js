@@ -1,0 +1,7 @@
+export const FETCH_USERS = 'FETCH_USERS';
+export const REMOVE_USERS = 'REMOVE_USRES';
+export const FETCH_USER_FAILED = 'FETCH_USER_FAILED'
+
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const REMOVE_POSTS = 'REMOVE_POSTS';
+export const FETCH_POSTS_FAILED = 'FETCH_POSTS_FAILED';
